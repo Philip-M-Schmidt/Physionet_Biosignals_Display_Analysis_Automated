@@ -4,18 +4,34 @@ The reason this script was created is that there is no full and easy accessible 
 
 The script is automated and will ask you for the file you want to read in:
 
+![](https://github.com/Philip-M-Schmidt/Physionet_Biosignals_Display_Analysis_Automated/blob/master/Screenshots/2020-05-17%2013_00_44-Window.png)
+
 for tha data format:
+
+![](https://github.com/Philip-M-Schmidt/Physionet_Biosignals_Display_Analysis_Automated/blob/master/Screenshots/2020-05-17%2012_46_20-Window.png)
 
 for the number of samples that should be displayed:
 
+![](https://github.com/Philip-M-Schmidt/Physionet_Biosignals_Display_Analysis_Automated/blob/master/Screenshots/2020-05-17%2012_46_39-Window.png)
+
 Then the display of the Biosignals and annotations follows:
+
+![](https://github.com/Philip-M-Schmidt/Physionet_Biosignals_Display_Analysis_Automated/blob/master/Screenshots/2020-05-17%2012_43_44-Window.png)
 
 For ECGs a R-Peak Detection is performed:
 
+![](https://github.com/Philip-M-Schmidt/Physionet_Biosignals_Display_Analysis_Automated/blob/master/Screenshots/2020-05-17%2012_44_17-Window.png)
+
 A Heart Rate Diagram is computed:
 
-A statistical Analysis is executed:
+![](https://github.com/Philip-M-Schmidt/Physionet_Biosignals_Display_Analysis_Automated/blob/master/Screenshots/2020-05-17%2012_44_43-Window.png)
+
+A statistical analysis is executed (the standard deviation STD equals to the Heart Variability HRV):
+
+![](https://github.com/Philip-M-Schmidt/Physionet_Biosignals_Display_Analysis_Automated/blob/master/Screenshots/2020-05-17%2012_45_04-Window.png)
 
 And the full description of the File with all information about channels, sample frequency etc. is displayed:
+
+![](https://github.com/Philip-M-Schmidt/Physionet_Biosignals_Display_Analysis_Automated/blob/master/Screenshots/2020-05-17%2012_45_23-Window.png)
 
 I hope you enjoy working with that program! 
